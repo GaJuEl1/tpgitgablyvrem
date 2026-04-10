@@ -6,6 +6,10 @@
     <title>TP BIEN COOL</title>
 </head>
 <body>
-    <h1></h1>
+    <h1>Titre de la page tres interessante</h1>
+    <form>
+        <input type='number'>
+        <label>Donnez un chiffre</label>
+    </form>
 </body>
 </html>
