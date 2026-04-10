@@ -6,6 +6,6 @@
     <title>TP BIEN COOL</title>
 </head>
 <body>
-    
+    <h1></h1>
 </body>
 </html>
